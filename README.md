@@ -10,7 +10,18 @@ Follow the steps below to run the project locally.
 
 ---
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
+git clone https://github.com/Abhinand03/axel-mechine-test.git
 
-```bash
-git clone <repository-url>
+
+###  2 Navigate to the project folder
+cd axel-mechine-test
+
+###  3 install dependencies
+npm install
+
+###  4 Start the development server
+npm run dev
+
+
+
